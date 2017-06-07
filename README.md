@@ -1,14 +1,14 @@
 # Air Condiscioning project
 
-- [ ] Lista della spesa
+- [x] Lista della spesa
 - [ ] Progetto
 - [ ] Implementazione
 
 ## Lista della Spesa
 
-- [ ] [Raspberry pi0](https://www.amazon.it/gp/product/B072LWBL37/ref=ox_sc_act_title_2?smid=A2KDI895FDYZAF&psc=1) (EUR 26,00)
-- [ ] [Micro SD](https://www.amazon.it/SanDisk-Imaging-MicroSDHC-Adattatore-Classe/dp/B012VKUSIA/ref=sr_1_1?s=electronics&ie=UTF8&qid=1496772865&sr=1-1&keywords=micro+sd) (EUR 9,46)
-- [ ] [Alimentatore](https://www.amazon.it/gp/product/B01M58O9M9/ref=ox_sc_act_title_1?smid=A1YTR8UCVRSI8N&psc=1) (EUR 13,99)
+- [x] [Raspberry pi0](https://www.amazon.it/gp/product/B072LWBL37/ref=ox_sc_act_title_2?smid=A2KDI895FDYZAF&psc=1) (EUR 26,00)
+- [x] [Micro SD](https://www.amazon.it/SanDisk-Imaging-MicroSDHC-Adattatore-Classe/dp/B012VKUSIA/ref=sr_1_1?s=electronics&ie=UTF8&qid=1496772865&sr=1-1&keywords=micro+sd) (EUR 9,46)
+- [x] [Alimentatore](https://www.amazon.it/gp/product/B01M58O9M9/ref=ox_sc_act_title_1?smid=A1YTR8UCVRSI8N&psc=1) (EUR 13,99)
 
 ## Progetto
 
