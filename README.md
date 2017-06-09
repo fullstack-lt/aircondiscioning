@@ -17,6 +17,7 @@
 - [Raspberry IR remote](https://www.hackster.io/duculete/ir-remote-with-raspberry-pi-d5cf5f)
 - [Sunfounder Ir exercise](https://github.com/sunfounder/Sunfounder_SensorKit_Python_code_for_RaspberryPi/blob/master/06_Ir.py)
 - [RaspAC](https://github.com/tpudlik/RaspAC)
+- [irtoy](https://rubygems.org/gems/irtoy/versions/0.1.1)
 
 ## Implementazione
 
