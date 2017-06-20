@@ -1,4 +1,5 @@
-# Air Condiscioning project
+
+# Air Condiscioning project
 
 - [x] Lista della spesa
 - [ ] Progetto
@@ -12,7 +13,7 @@
 
 ## Progetto
 
-### Link utili:
+### Link utili:
 
 - [Raspberry IR remote](https://www.hackster.io/duculete/ir-remote-with-raspberry-pi-d5cf5f)
 - [Sunfounder Ir exercise](https://github.com/sunfounder/Sunfounder_SensorKit_Python_code_for_RaspberryPi/blob/master/06_Ir.py)
@@ -26,3 +27,6 @@
 - Il progetto va sviluppato soltanto durante il FullstackLT
 - E' molto gradita la puntualità (18:30)
 - Non presentarsi a mani vuote
+
+### TODO:
+- Saldare la gpio alla scheda
